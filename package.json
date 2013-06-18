@@ -1,0 +1,35 @@
+{
+  "name": "hash-router",
+  "version": "0.0.1",
+  "description": "Tiny layer over component/router to dispatch on hashs in the url.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/domachine/hash-router.git"
+  },
+  "keywords": [
+    "client",
+    "side",
+    "router",
+    "hash"
+  ],
+  "author": "Dominik Burgdörfer <dominik.burgdoerfer@mikanda.de>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/domachine/hash-router/issues"
+  },
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2"
+  },
+  "devDependencies": {
+    "component": "~0.16.3"
+  }
+}

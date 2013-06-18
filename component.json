@@ -1,0 +1,18 @@
+{
+  "name": "hash-router",
+  "repo": "domachine/hash-router",
+  "description": "Tiny layer over component/router to dispatch on hashs in the url.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/router": "0.0.1"
+  },
+  "development": {
+    "chaijs/chai": "1.7.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
